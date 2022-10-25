@@ -25,6 +25,10 @@
 ![image](https://user-images.githubusercontent.com/31487695/216243784-f27a0ecc-aa7b-4fca-bce4-03b94694e723.png)
 
 
+## Omics to Abstractions and back to Omics !
+
+![image](https://user-images.githubusercontent.com/31487695/216246346-91cfcc07-00a6-4d02-bd04-2878f705cd5e.png)
+
 
 ## Subtype prediction K-M plot 
 ![image](https://user-images.githubusercontent.com/31487695/216243999-44dad240-11e2-4807-a6fb-2cb4244f1951.png)
