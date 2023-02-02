@@ -22,4 +22,12 @@
 
 
 
+## Subtype prediction K-M plot 
+![image](https://user-images.githubusercontent.com/31487695/216243999-44dad240-11e2-4807-a6fb-2cb4244f1951.png)
+
+
+## Further downstream GSEA analysis 
+
+![image](https://user-images.githubusercontent.com/31487695/216244152-15d06644-9783-4e10-8203-b3e6a8de00f6.png)
+
 
