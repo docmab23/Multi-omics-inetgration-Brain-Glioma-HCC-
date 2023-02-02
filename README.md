@@ -16,6 +16,10 @@
 
 ![image](https://user-images.githubusercontent.com/31487695/216243608-b21baade-1bb1-403f-a742-c2b7f2ad6f66.png)
 
+## Datasets 
+
+![image](https://user-images.githubusercontent.com/31487695/216246051-fa5c54b4-d268-41b9-ab7e-ddf1f66b4b02.png)
+
 
 ## Survival features from the latent embedding of the Autoencoder
 ![image](https://user-images.githubusercontent.com/31487695/216243784-f27a0ecc-aa7b-4fca-bce4-03b94694e723.png)
